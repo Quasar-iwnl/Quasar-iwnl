@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Quasar_iwnl
-- 👀 I’m interested in competitive programming and the intersection of coding and physics
-- 🌱 I’m currently in IIT Bombay CSE
+- - 🌱 I’m currently studying Computer Science and Engineering at IIT Bombay 
+- 👀 I’m interested in competitive programming and the intersection of software development and physics
 - 📫 How to reach me: gautam.xe.09@gmail.com
 
 <!---
